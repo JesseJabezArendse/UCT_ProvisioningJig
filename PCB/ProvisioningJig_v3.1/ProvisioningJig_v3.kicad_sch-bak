@@ -1,0 +1,199 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "fa501fbb-82c4-44dd-9729-f2c3f36a9f7f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 92.71 66.04)
+		(size 45.085 28.575)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "400da641-be0e-4931-865d-8b623976d59e")
+		(property "Sheetname" "Debugger"
+			(at 92.71 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Old_Small_Board.kicad_sch"
+			(at 92.71 95.1996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "brown" input
+			(at 137.795 84.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b848188c-45ca-486d-a6ca-740979e370e2")
+		)
+		(pin "unsoldered" input
+			(at 137.795 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c3155a8c-e4df-456b-bcd0-e34a009f88fb")
+		)
+		(pin "TP2_SWCLK" input
+			(at 122.555 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "83dacc49-0b02-462f-9a61-9af25178c1b4")
+		)
+		(pin "green" input
+			(at 137.795 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "30bbc31c-8cfe-4edb-b01c-27478992142c")
+		)
+		(pin "purple" input
+			(at 137.795 80.645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "812f92a3-95cb-4675-a548-d3598650744f")
+		)
+		(pin "TP1_SWIO" input
+			(at 118.11 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "69f7294c-9e75-4a73-98e2-670a9df81da1")
+		)
+		(pin "black" input
+			(at 92.71 73.025 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b6b3b73d-fc2f-4a49-8119-c78b2cd7e113")
+		)
+		(pin "blank2" input
+			(at 92.71 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "05c4b5d0-281a-4fb2-b2d7-21c5f1a7af96")
+		)
+		(pin "blank1" input
+			(at 92.71 76.2 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9aaac024-6a75-4da9-8e39-73c153d219a8")
+		)
+		(pin "orange" input
+			(at 92.71 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "24d85b98-e77a-4921-8318-d5ac7569c7bd")
+		)
+		(pin "blank3" input
+			(at 92.71 85.725 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7195b03f-9825-4ecb-a3d4-2182b0a3ae7c")
+		)
+		(instances
+			(project "ProvisioningJig_v3"
+				(path "/fa501fbb-82c4-44dd-9729-f2c3f36a9f7f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 87.63 124.46)
+		(size 53.34 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce07fb0e-6629-4310-ba6e-ee12bab4d380")
+		(property "Sheetname" "Debugger"
+			(at 87.63 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Debugger.kicad_sch"
+			(at 87.63 142.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ProvisioningJig_v3"
+				(path "/fa501fbb-82c4-44dd-9729-f2c3f36a9f7f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
