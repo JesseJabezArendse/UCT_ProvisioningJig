@@ -14,7 +14,7 @@ Schematics and PCB layouts for the Provisioning Jig and UCT Debugger v2.1.
 ### [Enclosure/](https://github.com/JesseJabezArendse/UCT_ProvisioningJig/tree/main/Enclosure)
 Solidworks files, gcode and Assembly Guidelines for the Enclosure of the Provisioning Jig.
 
-### [Documentation/](https://github.com/JesseJabezArendse/UCT_ProvisioningJig/tree/main/Provisioning%20Jig%20v3%20Documentation.docx)
+### [Documentation](https://github.com/JesseJabezArendse/UCT_ProvisioningJig/tree/main/Provisioning%20Jig%20v3%20Documentation.pdf)
 Guidelines and specifications for using and modifying the Provisioning Jig.
 
 ---
