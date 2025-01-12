@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "0000030_00000000",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -80,24 +80,24 @@
   "project": {
     "files": [
       {
-        "name": "ProvisioningJig_v3.kicad_pcb",
+        "name": "ProvisioningJig_v3.kicad_sch",
         "open": false,
         "window": {
-          "display": 2,
+          "display": 1,
           "maximized": true,
-          "pos_x": -9,
+          "pos_x": -1929,
           "pos_y": -9,
           "size_x": 1938,
           "size_y": 1038
         }
       },
       {
-        "name": "ProvisioningJig_v3.kicad_sch",
-        "open": true,
+        "name": "ProvisioningJig_v3.kicad_pcb",
+        "open": false,
         "window": {
-          "display": 2,
+          "display": 1,
           "maximized": true,
-          "pos_x": -9,
+          "pos_x": -1929,
           "pos_y": -9,
           "size_x": 1938,
           "size_y": 1038
